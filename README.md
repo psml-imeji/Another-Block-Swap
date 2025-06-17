@@ -14,5 +14,5 @@ This is not a ready-to-use mod and it is a MCreator project that require MCreato
 
 # What does this mod do
 This mod simply replace a block with another, in those cases:
-1. On world gen, it swaps every block in a chunk. This will only do once per chunk to prevent lag.
+1. It swaps every single block in the chunks near by the player. This will only do once per chunk to prevent lag.
 2. It swaps every blocks near the player, in a 8 blocks radius.
