@@ -1,7 +1,7 @@
 # Another-Block-Swap
-This is a remake of the Block Swap by CorgiTaco.
-Supports Minecraft 1.21.4
-The original version by CorgiTaco can be found here: https://github.com/CorgiTaco-MC/Block-Swap
+This is a remake of the Block Swap by CorgiTaco.<br>
+Supports NeoForge 1.21.4<br>
+The original version by CorgiTaco can be found here: https://github.com/CorgiTaco-MC/Block-Swap<br>
 This is not a ready-to-use mod and it is a MCreator project that require MCreator installed to use. (I am new to MCreator and did not found a way to add a config file, so I leave the project for now, sorry.)
 
 # How to use
